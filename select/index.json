@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "お気に召すまま - Eve MV",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-19T13:46:39.229965Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "お気に召すまま",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_お気に召すまま_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お気に召すまま",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_お気に召すまま_Eve.txt"
+    }
+  ]
+}
